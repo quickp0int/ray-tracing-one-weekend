@@ -2,6 +2,7 @@ P3
 200 100
 255
 <<<<<<< HEAD
+<<<<<<< HEAD
 166 202 255
 166 202 255
 165 201 255
@@ -20003,6 +20004,8 @@ P3
 218 233 255
 218 233 255
 =======
+=======
+>>>>>>> parent of 0f20749 (made the gradient background)
 0 253 51
 1 253 51
 2 253 51
@@ -40003,4 +40006,7 @@ P3
 252 0 51
 253 0 51
 254 0 51
+<<<<<<< HEAD
+>>>>>>> parent of 0f20749 (made the gradient background)
+=======
 >>>>>>> parent of 0f20749 (made the gradient background)
